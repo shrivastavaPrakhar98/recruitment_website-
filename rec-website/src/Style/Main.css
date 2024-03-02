@@ -1,0 +1,236 @@
+.main_content {
+    width: 100%;
+    height: 100vh;
+}
+
+.nav-space {
+    width: 100%;
+    height: 15vh;
+} 
+
+.background-offc {
+    width: 100%;
+    height: 63vh;
+    background: rgba(0, 0, 0, 0.7) url('../Images/office_bg1.jpg');
+    background-blend-mode: overlay;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.off_pic {
+    width: 100%;
+    height: 60vh;
+}
+
+.direc-box {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+   align-items: center;
+    color: white;
+    width: 70%;
+    height: 30vh;
+}
+
+.web-heading{
+    font-size: 3rem;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 500;
+    text-transform: capitalize;
+}
+
+.getStarted{
+    border: 2px solid #fff;
+    width: 15%;
+    margin-top: 20px;
+    border-radius: 10px;
+    padding: 10px 5px;
+    text-align: center;
+    background-color: #5191d6;
+    background-color: rgb(180, 114, 180);
+    background-color: #71f9f5;
+    color: #0f2b99;
+    font-weight: 800;
+    letter-spacing: 1px;
+    cursor: pointer;
+}
+
+
+.intro-box{
+    width: 100%;
+    height: 65vh;
+    display: flex;
+}
+
+.left-content{
+    width: 40%;
+    background-image: url('../Images/setout_intro.png');
+    background-position: inherit;
+    background-repeat: no-repeat;
+    background-size: contain;
+    /*background-color: #060622;*/
+    background-color: #5191d6;
+
+}
+
+.right-content{
+    background-color: #5191d6;
+    width: 60%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.inner-right-content{
+    width: 95%;
+    height: 40vh;
+    
+}
+
+.web-heading1{
+    color: #fff;
+    font-size: 2.2rem;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 200;
+}
+
+.setout-content{
+    margin-top: 20px;
+    font-size: 1.5rem;
+    color: #fff;
+    letter-spacing: 2px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.our-expertise{
+  
+    width: 100%;
+    height: 80vh;
+}
+
+.expertise-heading{
+    width: 100%;
+    height: 20vh;
+}
+
+.expertise-spell{
+    font-size: 2.5rem;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 800;
+    padding: 40px 40px;
+    color: #0f2b99;
+}
+
+.expertise-content{
+    width: 100%;
+    height: 60vh;
+    display: flex;
+    justify-content: space-evenly;
+
+}
+
+.expertise-cate1{
+    width: 25%;
+}
+
+
+
+.efficent-design{
+ width: 55%;
+ margin: 20px 20px;
+}
+
+.efficent-heading{
+    font-size: 1.5rem;
+    margin: 5px 20px;
+}
+
+.efficent-content{
+    font-size: 1.1rem;
+    width: 90%;
+    margin: 5px 20px;
+}
+
+.client-testimonial{
+    width: 100%;
+    height: 80vh;
+}
+
+.client-heading{
+  text-align: center;
+  padding-top: 10px;
+  font-size: 2.8rem;
+  text-transform: capitalize;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: 600;  
+  color: #0f2b99;
+}
+
+.testimonial-container{
+    width: 100%;
+    height: 70vh;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+
+.testimonial1{
+width: 25%;
+height: 40vh;
+background-color: #71f9f5;
+border-radius: 20px;
+}
+
+.testimonial-content{
+    width: 90%;
+    font-size: 1.4rem;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 50px 20px;
+    color: #0f2b99;
+}
+
+.web-footer{
+    width: 100%;
+    height: 50vh;
+    background-color: #5191d6;
+    display: flex;
+}
+
+.right-footer{
+width: 40%;
+height: 49vh;
+}
+
+.slogos{
+    width: 45%;
+    margin: 30px 60px;
+}
+
+
+.left-footer{
+    width: 60%;
+    height: 49vh;
+}
+
+.short-links{
+    width: 100%;
+    height: 20vh;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+
+.rec-icons{
+    width: 98%;
+    height: 25vh;
+    
+}
+
+
+
